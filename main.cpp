@@ -38,7 +38,12 @@ int main(){
         std::cin>>left_cps;
 
         if(left_cps > 20){
-            MessageBox(NULL, "Maximum CPS is 20!", "[Apollyon] | by Kenyh", 0);
+            MessageBox(NULL, "Maximum CPS are 20!", "[Apollyon] | by Kenyh", 0);
+            main();
+        }
+
+        if(left_cps < 1){
+            MessageBox(NULL, "Minimum CPS is 1!", "[Apollyon] | by Kenyh", 0);
             main();
         }
 
@@ -49,7 +54,12 @@ int main(){
         std::cin>>right_cps;
 
         if(right_cps > 20){
-            MessageBox(NULL, "Maximum CPS is 20!", "[Apollyon] | by Kenyh", 0);
+            MessageBox(NULL, "Maximum CPS are 20!", "[Apollyon] | by Kenyh", 0);
+            main();
+        }
+
+        if(right_cps < 1){
+            MessageBox(NULL, "Minimum CPS is 1!", "[Apollyon] | by Kenyh", 0);
             main();
         }
 
