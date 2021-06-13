@@ -10,7 +10,7 @@ _Or open the executable_
 
 # Gui
   <p align=center>
-      <image> https://cdn.discordapp.com/attachments/852696157737713664/853676009214705677/unknown.png
+      <image src="https://cdn.discordapp.com/attachments/852696157737713664/853676009214705677/unknown.png"> 
   <p/>
 
   
