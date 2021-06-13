@@ -7,6 +7,12 @@ _A simple autoclicker in C++ with randomization, undetected._
 g++ main.cpp
 ```
 _Or open the executable_
+
+# Gui
+  <p align=center>
+  ![image](https://user-images.githubusercontent.com/71294924/121815553-74429200-cc4d-11eb-817c-16445ec00758.png)
+  <p/<
+
   
 ## Usage 💻
 ```
