@@ -2,7 +2,7 @@
   
 _A simple autoclicker in C++ with randomization, undetected._
   
-### Install 🔧
+### Install 🔧 (You NEED to have MinGW Installed)
 ```
 g++ main.cpp
 ```
